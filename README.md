@@ -22,3 +22,4 @@ $ npm run generate
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 "# nuxt_spa_cap" 
 "# spa_capacitor" 
+"# spa_capacitor" 
